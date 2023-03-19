@@ -1,8 +1,0 @@
-Dario: 
-Di 	13-12-2022 	Homepagina gemaakt (table, menu en kleurvakken).					2 uur
-Do	15-12-2022	"style.css" gemaakt, alvast benodigde stijlen ingezet.					2 uur
-Za 	18-12-2022	Begonnen aan "Software.html", plaatjes toegevoegd met dummy tekst. 			1,5 uur
-Di	20-12-2022	"Hardware.html" gemaakt, en begonnen aan contactformulier.				0,75 uur
-
-Dante:
-Woe	14-12-2022	Tekst opgesteld en ingevuld in respectievelijke kolommen in tabel op homepagina.	1 uur
