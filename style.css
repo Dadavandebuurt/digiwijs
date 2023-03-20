@@ -2,14 +2,6 @@ html, body {
   height: 100%;
 }
 
-
-
-
-
-
-
-
-
 /* The navigation menu */
 .navbar {
   overflow: hidden;
@@ -102,5 +94,19 @@ html, body {
 .omloop {
     margin-top: 0;
     
+}
+
+.center {
+  
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%); /* for IE 9 */
+  -webkit-transform: translate(-50%, -50%); /* for Safari */
+
+  /* optional size in px or %: */
+  width: 100%;
+  height: 100%;
 }
 
