@@ -9,4 +9,7 @@
       left: -50%;
 	align: center;
     }
-		
+	
+	.button-center { 
+		text-align: center; 
+	}
